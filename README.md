@@ -1,16 +1,26 @@
-## Hi there 👋
+# Sat Paing Oo
 
-<!--
-**SatPaing1993/SatPaing1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with a background in laboratory and health data reporting.  
+I have experience working with real-world health records and laboratory data, and I am interested in transforming raw data into useful insights using data analysis tools.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL (Data Querying and Analysis)
+- Python (Pandas for Data Cleaning)
+- Microsoft Excel (Data Reporting & Analysis)
+- Power BI (Data Visualization)
+- Data Cleaning and Data Preparation
+
+## Tools
+
+SQL | Python | Excel | Power BI | GitHub
+
+
+## Learning Focus
+
+Currently improving skills in:
+
+- Data Analysis
+- Data Visualization
+- SQL Optimization
+- Python for Data Processing
