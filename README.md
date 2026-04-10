@@ -1,26 +1,53 @@
-# Sat Paing Oo
+# Hi, I'm Sat Paing Oo 👋
 
-Aspiring Data Analyst with a background in laboratory and health data reporting.  
-I have experience working with real-world health records and laboratory data, and I am interested in transforming raw data into useful insights using data analysis tools.
+🎯 Aspiring Data Analyst with a background in laboratory and health data reporting.
+I specialize in transforming raw data into meaningful insights to support data-driven decision-making.
 
-## Skills
+---
 
-- SQL (Data Querying and Analysis)
-- Python (Pandas for Data Cleaning)
-- Microsoft Excel (Data Reporting & Analysis)
-- Power BI (Data Visualization)
-- Data Cleaning and Data Preparation
+## 🔍 About Me
 
-## Tools
+* Experienced in working with real-world laboratory and health datasets
+* Strong interest in data analysis, visualization, and business insights
+* Passionate about turning complex data into simple, actionable stories
+
+---
+
+## 🛠 Skills
+
+* **SQL** – Data querying, transformation, and analysis
+* **Python (Pandas)** – Data cleaning and preprocessing
+* **Microsoft Excel** – Reporting and data analysis
+* **Power BI** – Interactive dashboards and data visualization
+* Data Cleaning & Data Preparation
+
+---
+
+## ⚙️ Tools
 
 SQL | Python | Excel | Power BI | GitHub
 
+---
 
-## Learning Focus
+## 📊 Featured Project
 
-Currently improving skills in:
+🔹 **Customer & Item Segmentation Analysis**
 
-- Data Analysis
-- Data Visualization
-- SQL Optimization
-- Python for Data Processing
+* Performed customer segmentation using Order Count and Average Order Value
+* Applied Pareto Analysis to identify key revenue drivers
+* Built an interactive Power BI dashboard for business insights
+
+---
+
+## 🚀 Currently Learning
+
+* Advanced Data Analysis techniques
+* Data Visualization best practices
+* SQL performance optimization
+* Python for data processing and automation
+
+---
+
+## 📫 Let's Connect
+
+I am actively working toward becoming a professional Data Analyst and open to learning opportunities and collaboration.
